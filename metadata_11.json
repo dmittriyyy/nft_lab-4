@@ -1,15 +1,15 @@
 {
-  "name": "Мой Уникальный NFT",
-  "description": "ОБНОВЛЕННОЕ описание NFT - изменено на GitHub!",
+  "name": "NFT #11",
+  "description": "My NFT Collection #11",
   "image": "https://habrastorage.org/getpro/habr/upload_files/d46/574/35e/d4657435edff35e9c525aa25fc667393.png",
   "attributes": [
     {
-      "trait_type": "Редкость",
-      "value": "Легендарный"
+      "trait_type": "Index",
+      "value": "11"
     },
     {
-      "trait_type": "Тип",
-      "value": "Коллекционный"
+      "trait_type": "Collection",
+      "value": "Batch Mint"
     }
   ]
 }
